@@ -1,2 +1,1 @@
-# Treap
-Implicit Cartesian tree library
+# Implicit Cartesian tree library
